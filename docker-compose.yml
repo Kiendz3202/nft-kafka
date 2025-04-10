@@ -64,3 +64,4 @@ services:
       - kafka1
       - kafka2
       - kafka3
+      t
